@@ -1,0 +1,11 @@
+install
+ C:\Users\John>py -m pip install pytest
+
+--test
+py -m pytest tests/test_hangman.py -v
+
+--run
+
+
+cd C:\hangman
+py src/hangman.py
